@@ -1,0 +1,197 @@
+baseURL = "https://3dprintcakes.com/"
+languageCode = "en-us"
+title = "3D Print Cakes"
+theme = "printwire"
+
+[params]
+tagline       = "Custom cake decoration and pastry printing — intricate sugar structures, chocolate lattices, and edible art for bespoke confections."
+description   = "3D Print Cakes is the dedicated resource for confectionery 3D printing — covering chocolate printing, sugar structuring, fondant extrusion, and the future of custom cake design."
+keywords      = "3D print cakes, chocolate 3D printing, sugar printing, edible printing, cake decoration, confectionery AM, pastry printing"
+logoEmoji     = "🎂"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#ff2d87"
+colorPrimaryDark  = "#d4206e"
+colorPrimaryLight = "#ff5aa8"
+colorBgDark       = "#0f0810"
+colorBgSection    = "#130b14"
+colorBgCard       = "#1a1020"
+colorBgCardHover  = "#221528"
+colorBorder       = "rgba(255,45,135,0.22)"
+colorBorderLight  = "rgba(255,45,135,0.10)"
+
+fontPrimary   = "Outfit"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = [
+  "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80",
+  "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80",
+]
+
+heroEyebrow  = "Confectionery Printing"
+heroTitle    = "3D Print <em>Cakes</em>"
+heroSubtitle = "Custom cake decoration and pastry printing — intricate sugar structures, chocolate lattices, and edible art for bespoke confections."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+overviewLabel   = "Confectionery"
+overviewTitle   = "Edible Architecture"
+overviewText    = "From intricate lattice chocolate structures to geometrically precise sugar decorations — 3D printing unlocks cake designs impossible by hand."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Industries We Serve"
+servicesLabel    = "What We Do"
+servicesTitle    = "3D Print Cakes Services"
+servicesSubtitle = "Custom cake decoration and pastry printing — intricate sugar structures, chocolate lattices, and edible art for bespoke confections."
+clusterLabel = "PrintWire Network"
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Custom cake decoration and pastry printing — intricate sugar structures, chocolate lattices, and edible art for bespoke confections."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 50
+suffix = "µm"
+label  = "Sugar Print Resolution"
+
+[[params.stats]]
+count  = 99
+suffix = "%"
+label  = "Food-Grade Materials"
+
+[[params.stats]]
+count  = 8
+suffix = "B+"
+label  = "Custom Cake Market (USD)"
+
+[[params.stats]]
+count  = 60
+suffix = "%"
+label  = "Faster than Hand Decoration"
+
+
+[[params.applications]]
+title       = "Wedding Cake Toppers"
+description = "Intricate custom toppers in chocolate, sugar, or food-safe resin — personalised to client design."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+[[params.applications]]
+title       = "Chocolate Structures"
+description = "Geometric lattices, monograms, and sculptural chocolate pieces for patisserie and events."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+[[params.applications]]
+title       = "Fondant & Sugar Art"
+description = "Printed fondant decorations, sugar flowers, and architectural cake tiers."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+[[params.applications]]
+title       = "Bakery Branding"
+description = "Custom branded chocolates, embossed cakes, and logo-printed confections for corporate events."
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🍫"
+title       = "Chocolate 3D Printing"
+description = "Dark, milk, and white chocolate printing — lattices, monograms, and sculptural structures up to 200mm."
+
+[[params.servicesPreview]]
+icon        = "🎂"
+title       = "Sugar Decoration Printing"
+description = "Precise sugar structures in isomalt and royal icing — wedding toppers, floral designs, and geometric patterns."
+
+[[params.servicesPreview]]
+icon        = "🎨"
+title       = "Fondant Extrusion"
+description = "Custom fondant shapes, letters, and architectural elements extruded to order for tier cakes."
+
+[[params.servicesPreview]]
+icon        = "✨"
+title       = "Custom Cake Design"
+description = "Full design-to-print service for bespoke confections — concept, 3D model, print, and delivery."
+
+
+[[params.services]]
+name        = "Chocolate 3D Printing"
+description = "Dark, milk, and white chocolate printing — lattices, monograms, and sculptural structures up to 200mm."
+icon        = "🍫"
+image       = "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800&q=80"
+
+[[params.services]]
+name        = "Sugar Decoration Printing"
+description = "Precise sugar structures in isomalt and royal icing — wedding toppers, floral designs, and geometric patterns."
+icon        = "🎂"
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+
+[[params.services]]
+name        = "Fondant Extrusion"
+description = "Custom fondant shapes, letters, and architectural elements extruded to order for tier cakes."
+icon        = "🎨"
+image       = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+
+[[params.services]]
+name        = "Custom Cake Design"
+description = "Full design-to-print service for bespoke confections — concept, 3D model, print, and delivery."
+icon        = "✨"
+image       = "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintfood.com"
+url         = "https://3dprintfood.com"
+description = "Food 3D printing flagship"
+
+[[params.clusterLinks]]
+name        = "3dprintceramic.com"
+url         = "https://3dprintceramic.com"
+description = "Ceramic additive manufacturing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing services"
+
+[[params.clusterLinks]]
+name        = "3dprintarchitecture.com"
+url         = "https://3dprintarchitecture.com"
+description = "Architecture AM"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
