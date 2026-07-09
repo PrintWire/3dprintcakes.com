@@ -1,9 +1,17 @@
 baseURL = "https://3dprintcakes.com/"
 languageCode = "en-us"
 title = "3D Print Cakes"
-theme = "printwire"
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
+siteName      = "3D Print Cakes"
+logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CAKES</span>'
 tagline       = "Custom cake decoration and pastry printing — intricate sugar structures, chocolate lattices, and edible art for bespoke confections."
 description   = "3D Print Cakes is the dedicated resource for confectionery 3D printing — covering chocolate printing, sugar structuring, fondant extrusion, and the future of custom cake design."
 keywords      = "3D print cakes, chocolate 3D printing, sugar printing, edible printing, cake decoration, confectionery AM, pastry printing"
