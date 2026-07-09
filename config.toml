@@ -10,6 +10,7 @@ title = "3D Print Cakes"
       unsafe = true
 
 [params]
+ogImage       = "/images/03_multicolor_food.png"
 siteName      = "3D Print Cakes"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CAKES</span>'
 tagline       = "Custom cake decoration and pastry printing — intricate sugar structures, chocolate lattices, and edible art for bespoke confections."
