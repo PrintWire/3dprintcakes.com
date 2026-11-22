@@ -14,7 +14,7 @@ siteName      = "3D Print Cakes"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CAKES</span>'
 ogImage       = "/images/03_multicolor_food.png"
 tagline       = "Custom cake decoration and pastry printing — intricate sugar structures, chocolate lattices, and edible art for bespoke confections."
-description   = "3D Print Cakes is the dedicated resource for confectionery 3D printing — covering chocolate printing, sugar structuring, fondant extrusion, and the future of custom cake design."
+description   = "3D Print Cakes is a PrintWire network site about 3D printed cakes and confectionery. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "3D print cakes, chocolate 3D printing, sugar printing, edible printing, cake decoration, confectionery AM, pastry printing"
 logoEmoji     = "🎂"
 contactEmail  = "maxdavisgroup@gmail.com"
